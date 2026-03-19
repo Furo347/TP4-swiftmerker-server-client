@@ -1,5 +1,4 @@
 import Foundation
-import Vapor
 
 struct UserResponse: Codable {
     var id: UUID
